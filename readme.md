@@ -1,7 +1,6 @@
 # GestionaleJet
 
-GestionaleJet is a Java-based management system designed to handle jet rentals. It allows for the addition, visualization, and management of jets available for rent.
-
+it's a luxury jet rental management system designed to streamline the operations of jet leasing. This Java-based application allows for the management of jets, offers, services, rentals, and clients.
 ## Features
 
 - **Add Jets**: Allows the addition of new jets to the system.
@@ -15,8 +14,12 @@ GestionaleJet is a Java-based management system designed to handle jet rentals. 
 
 To get started with GestionaleJet and access the application download the project and move "GestionaleJet.jar" in your desktop and run this `java -jar Desktop\GestionaleJet.jar` on your terminal.
 
-Once you run the application you'll be asked admin and password, use these credentials `admin` for admin and `admin1234` for password.
+## Usage
 
+Upon starting the application, you will be prompted to log in. Use the default credentials:
+
+- **Username**: admin
+- **Password**: admin1234
 
 ### Prerequisites
 
